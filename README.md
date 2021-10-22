@@ -28,4 +28,4 @@ Upload on Pdisk by Url, File and also by direct forward post from other channel.
 
 ##### Credit
 
-- Me [Priyanshu Kumar](https://github.com/ParitoshPky) For This Repo
+- Me [Priyanshu Kumar](https://github.com/PRIYANSHU098U7/dahs-dahd) For This Repo
